@@ -1,7 +1,7 @@
 - Olá, mundo, sou Pedro Augusto
 - 👀 Procurando atualmente uma oportunidade
 - 🌱 Curso Java e Python
-- 💞️ Curso analise e desenvolvimento de sistem
+- 💞️ Curso analise e desenvolvimento de sistema
  <div align="center">
      <a href="https://github.com/PedroAugustojardim">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAugustojardim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
